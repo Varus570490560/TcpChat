@@ -1,0 +1,3 @@
+/home/varus/CLionProjects/tcpChat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/varus/CLionProjects/tcpChat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/varus/CLionProjects/tcpChat/cmake-build-debug/CMakeFiles/tcpChat.dir
