@@ -1,3 +1,5 @@
 # ninja log v5
 0	2501	1645292732771923243	CMakeFiles/tcpChat.dir/main.cpp.o	30f974567731eed
 2502	2677	1645292732947919335	tcpChat	c3556ba759d63162
+0	102	1645331998050148090	CMakeFiles/tcpChat.dir/src/server/server.cpp.o	9094cfc627c3a362
+0	107	1645331998054147998	CMakeFiles/tcpChat.dir/src/client/client.cpp.o	2a5b35f98d7d4d36

@@ -3,4 +3,4 @@ project(tcpChat)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(tcpChat main.cpp)
+add_executable(tcpChat src/server/server.cpp src/client/client.cpp)
